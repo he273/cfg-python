@@ -1,0 +1,7 @@
+2018 Sales Summary
+
+Total sales: 45542
+Total expenditure: 30159
+Total profit: 15383
+The best month for sales was jul with sales of 7479
+The worst month for sales was feb with sales of 1521
